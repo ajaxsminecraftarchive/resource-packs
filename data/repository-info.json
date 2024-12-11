@@ -1,5 +1,5 @@
 {
-	"displayName": "Display Name",
-	"description": "Description",
-	"rawDownload": false
+	"displayName": "Resource Packs",
+	"description": "Download all the resource packs here!",
+	"rawDownload": true
 }
